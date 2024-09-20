@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buenas practicas.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buenas practicas.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buenas practicas.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buenas practicas.md"
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md"
               }
             }
           }
@@ -147,5 +147,15 @@
     }
   },
   "active": "c6b5daee20d65220",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/ejercicios.js",
+    "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves/ejercicio_1.js",
+    "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves",
+    "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/Jueves",
+    "4. TalentoTech Full Stack/1. Notes/1. POO.md",
+    "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
+    "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/36_operador_ternario_Js.md",
+    "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/tempCodeRunnerFile.js",
+    "Buenas practicas.md"
+  ]
 }

@@ -142,7 +142,7 @@ class NumberAlgorithm {
 
     // Método con nombre más claro y usando filter para filtrar los números
     getNumbersLessThanOrEqualTo25() {
-        let filteredNumbers = this.numberList.filter(number => number <= 25);
+        let filteredNumbers = this.numberList.filter(number => number < 25);
         return filteredNumbers;
     }
 }
@@ -191,12 +191,149 @@ console.log(`El precio es: ${testTrade.convertToPesos()} COP`);
 /* 
 7. Hacer un programa que registre el consumo realizado por los clientes de un
 restaurante, si el consumo de cada cliente excede 50000 se hará un descuento
+del 20%. Se debe mostrar el pago de cada cliente y el total de todos los pagos. 
 
-Datos de entada
+Datos de entrada
     Array que contiene todos los precios de lo consumido por el cliente
     
-Prodimiento
+Procedimiento
+    1. Sumar todos los precios de un cliente
+    2. Compararlo con 50.000
+        2.1 Si es mayor hacerle un descuento predeterminado
+    3. 
 
 Datos de salida
-
+    Mostrar el total consumido y si excede 50.000 tiene un descuento
 */
+
+// Creando clase
+class Receipt {
+    constructor () {
+        this.clientPayments = [];
+    }
+
+    // Creando metodo calcular descuento por cliente
+    calculateTotalConsumption (priceList) {
+        const DISCOUNT_THRESHOLD = 50000;
+        let totalConsumption = priceList.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+        const ORIGINAL_TOTAL = totalConsumption;
+
+
+        if (totalConsumption  > DISCOUNT_THRESHOLD) {
+            totalConsumption  *= 0.8;
+            console.log(`Tiene un descuento del 20% del total original: ${ORIGINAL_TOTAL} COP`);
+        }
+
+        this.clientPayments.push(totalConsumption);
+        console.log(`El total a pagar por este cliente es: ${totalConsumption} COP.`);
+    }
+
+    // Crear metodo calcular total precio de todos los clientes
+    calculateTotalPrice () {
+        let totalPrice = this.clientPayments.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
+        console.log(`El total a pagar de todos los clientes es: ${totalPrice} COP.`)
+    }
+}
+
+// Creando instancia
+let restaurant = new Receipt();
+
+restaurant.calculateTotalConsumption([10000, 20000, 60000]);
+restaurant.calculateTotalConsumption([1000, 2000, 40000]);
+restaurant.calculateTotalConsumption([3000, 5000, 7000]);
+
+// Llamando al metodo
+restaurant.calculateTotalPrice();
+
+/*
+8. Diseñar un algoritmo que permita ingresar la hora, minutos y segundos, y
+que calcule la hora en el siguiente segundo ("0<= H <=23", "0<= M <=59"
+"0<= S<=59").
+*/
+
+// Creando clase
+class Time {
+    constructor(hours, minutes, seconds) {
+        this.hours = hours;
+        this.minutes = minutes;
+        this.seconds = seconds;
+    }
+
+    clock () {
+
+        if (this.seconds > 60 || this.minutes > 60 || this.hours > 24 ) {
+            return console.log('Datos ingresados incorrectos.');
+        }
+
+        this.seconds++;
+
+        if (this.seconds == 60) {
+            this.seconds = 0;
+            this.minutes++;
+        } 
+        if (this.minutes == 60) {
+            this.minutes = 0;
+            this.hours++;
+        } 
+        if (this.hours == 24) {
+            this.hours = 0;
+        }
+        console.log(`La hora es: ${this.hours}:${this.minutes}:${this.seconds}`);
+    }
+}
+
+// Creando instancia
+let testTime = new Time (23,59,50);
+// Llamando el metodo
+testTime.clock();
+
+/*
+9. Dado N, escribir el producto desde 1 hasta N.
+*/
+
+class Factorial {
+    constructor(number) {
+        this.number = number;
+    }
+
+    calculateFactorial () {
+        let acc = 1;
+
+        for (let i = 1; i <= this.number; i++) {
+            acc *= i;
+        }
+        console.log(acc);
+    }
+}
+
+let testNumberFactorial = new Factorial(5);
+
+testNumberFactorial.calculateFactorial();
+
+
+/*
+10. Realizar un algoritmo que muestre por pantalla la tabla de multiplicar
+*/
+
+class TablaMultiplicar {
+    constructor(numero) {
+        this.numero = numero;
+    }
+
+    mostrarTablaDecreciente() {
+        if (this.numero < 1 || this.numero > 10) {
+            console.log("El número debe estar entre 1 y 10.");
+            return;
+        }
+        for (let i = 10; i >= 1; i--) {
+            console.log(`${this.numero} x ${i} = ${this.numero * i}`);
+        }
+    }
+}
+
+// Crear una instancia de la clase TablaMultiplicar
+let tabla = new TablaMultiplicar(7);
+
+// Mostrar la tabla de multiplicar decreciente
+console.log(`Tabla de multiplicar decreciente de ${tabla.numero}:`);
+tabla.mostrarTablaDecreciente();

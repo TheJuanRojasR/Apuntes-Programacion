@@ -1,7 +1,7 @@
 ## Convención de escritura 🖊️
 - Para nombrar carpetas voy a utilizar la convención de escritura **PascalCase con snake_case**.
 	- Ej: 📁 Talento_Tech
-- Para nombrar archivos voy a utilizar la conveción de escritura **snake_case**.
+- Para nombrar archivos voy a utilizar la convención de escritura **snake_case**.
 	- Ej: 📄 primera_clase.js
 - Para nombrar variables, funciones, arrays, objetos y clases vamos a utilizar distintas convenciones de escritura :
 	- Variables **(camelCase)**: miVariable, contadorTotal, esValido.
@@ -18,7 +18,7 @@
 	- Palabras reservadas.
 	- Nombres de una sola letra (i, j, k) Solo utilizar en bucles.
 - ✅ **Se puede hacer** :
-	- Nombres descriptivos. (Describen su funcion dentro del codigo)
+	- Nombres descriptivos. (Describen su función dentro del código)
 	- Nombres cortos.
 	- En positivo.
 
