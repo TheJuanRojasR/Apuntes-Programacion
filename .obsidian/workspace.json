@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md"
+                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "c6b5daee20d65220",
   "lastOpenFiles": [
+    "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves/encapsulamiento.js",
+    "4. TalentoTech Full Stack/1. Notes/1. OOP.md",
+    "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
+    "5. Oracle/1. DataBase Design/1. Notes/2.2 Entidades, Instancias, Atributos e Identificadores.md",
+    "5. Oracle/1. DataBase Design/1. Notes/2.1 Modelos Conceptuales y Físicos.md",
+    "5. Oracle/1. DataBase Design/1. Notes/1.4 Transformaciones en informática.md",
+    "Comandos para archivos .md.md",
+    "5. Oracle/1. DataBase Design/1. Notes/1.3 Historia de la base de datos.md",
+    "5. Oracle/1. DataBase Design/1. Notes/1.2 Datos Frente a la Información.md",
     "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/ejercicios.js",
     "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves/ejercicio_1.js",
     "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves",
     "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/Jueves",
-    "4. TalentoTech Full Stack/1. Notes/1. POO.md",
-    "4. TalentoTech Full Stack/1. Notes/2. Principios de POO.md",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/36_operador_ternario_Js.md",
     "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/tempCodeRunnerFile.js",
     "Buenas practicas.md"

@@ -45,10 +45,5 @@
 	  Código ….
 	  '''  
 
-# Comandos de Obsidian
-
-1. Enlaces para dirigir a otras paginas dentro de Obsidian
-	-  Sintaxis : [ [ ] ] Son unos corchetes dentro de otros corchetes e iría la pagina que quieres donde se dirija. 
-	
 
 
