@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4309eb56ac854c8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. TalentoTech Full Stack/1. Notes/01_Semana/02.1_OOP - HERENCIA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3935027ea157e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
+                "file": "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md"
+                "file": "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md"
               }
             }
           }
@@ -146,23 +171,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b5daee20d65220",
+  "active": "e248ad8cc70d492b",
   "lastOpenFiles": [
-    "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves/encapsulamiento.js",
-    "4. TalentoTech Full Stack/1. Notes/1. OOP.md",
-    "4. TalentoTech Full Stack/1. Notes/2. Principios de OOP.md",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/index.html",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/02_Martes",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/single.html",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/license.txt",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/navigation.js",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/jquery.min.js",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/html5.js",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/css3-mediaqueries.js",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project2.jpg",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project1.jpg",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/pinterest.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/pattern101.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/instagram.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/logo.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img03.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img02.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img01.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/google.png",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/favicon.ico",
+    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/css/zerogrid.css",
+    "4. TalentoTech Full Stack/1. Notes/01_Semana/02.1_OOP - HERENCIA.md",
+    "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md",
+    "4. TalentoTech Full Stack/1. Notes/01_Semana/02_OOP - ENCAPSULAMIENTO.md",
+    "4. TalentoTech Full Stack/1. Notes/01_Semana/01_OOP - Object Oriented Programming.md",
+    "4. TalentoTech Full Stack/2. Code/01_Semana/05_Viernes/ejercicios_encapsulamiento.md",
+    "4. TalentoTech Full Stack/2. Code/Semana_1/05_Viernes/ejercicios_encapsulamiento.md",
     "5. Oracle/1. DataBase Design/1. Notes/2.2 Entidades, Instancias, Atributos e Identificadores.md",
     "5. Oracle/1. DataBase Design/1. Notes/2.1 Modelos Conceptuales y Físicos.md",
     "5. Oracle/1. DataBase Design/1. Notes/1.4 Transformaciones en informática.md",
     "Comandos para archivos .md.md",
     "5. Oracle/1. DataBase Design/1. Notes/1.3 Historia de la base de datos.md",
     "5. Oracle/1. DataBase Design/1. Notes/1.2 Datos Frente a la Información.md",
-    "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/ejercicios.js",
-    "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves/ejercicio_1.js",
-    "4. TalentoTech Full Stack/2. Code/Semana_1/Jueves",
-    "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/Jueves",
     "1. Platzi/1. JavaScript_Desde_Cero/1. Notes/36_operador_ternario_Js.md",
-    "4. TalentoTech Full Stack/2. Code/Semana_1/Miercoles/tempCodeRunnerFile.js",
     "Buenas practicas.md"
   ]
 }
