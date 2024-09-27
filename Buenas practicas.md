@@ -93,7 +93,7 @@ let headerIsActive = () => {} ✅
 - La función handler (Manejadoras) son funciones que se utilizan para manejar o responder a eventos generados por el usuario o por el navegador.
 
 ```javascript
-const HEADER_BUTTON = document.querySelecto('.header__button');
+const HEADER_BUTTON = document.querySelector('.header__button');
 HEADER_BUTTON.addEventListener(`click`, () => {
 }) ❌ // Evitar hacer esta forma.
 

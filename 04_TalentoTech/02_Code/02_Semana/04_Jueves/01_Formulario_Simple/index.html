@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manejos de eventos DOM</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .container__input {
+            width: 200px;
+            height: 40px;
+        }
+        .container__button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <!-- Contenedor principal con clase BEM -->
+    <section class="container">
+        <input id="example-input" class="container__input" type="text">
+        <button id="send-button" class="container__button">Enviar</button>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manipulación de Atributos en el DOM</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+        }
+        .container__image {
+            max-width: 100%;
+            height: auto;
+        }
+        .container__button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <!-- Contenedor principal con clase BEM -->
+    <div class="container">
+        <img id="example-imagen" class="container__image" src="https://via.placeholder.com/150" alt="Imagen de ejemplo">
+        <button id="get-src-button" class="container__button">Obtener valor de 'src'</button>
+        <button id="set-alt-button" class="container__button">Actualizar valor de 'alt'</button>
+        <button id="has-alt-button" class="container__button">Verificar atributo exitencia de 'alt'</button>
+        <button id="rem-alt-button" class="container__button">Eliminar atributo 'alt'</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

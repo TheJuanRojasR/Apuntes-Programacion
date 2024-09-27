@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4309eb56ac854c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_TalentoTech/01_Notes/02_Semana/01_DOM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3935027ea157e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md",
+                "file": "Buenas practicas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md",
+                "file": "Buenas practicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md",
+                "file": "Buenas practicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md"
+                "file": "Buenas practicas.md"
               }
             }
           }
@@ -161,20 +148,29 @@
   },
   "active": "f3935027ea157e20",
   "lastOpenFiles": [
-    "Comandos para archivos md.md",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/02_Ejericio/01_Formulario_Simple/index.html",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/02_Ejericio/01_Formulario_Simple/script.js",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/02_Ejericio/01_Formulario_Simple",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/02_Ejericio",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/01_Formulario_Simple/02_Ejericio",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/01_Formulario_Simple/script.js",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/01_Formulario_Simple/index.html",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/01_Formulario_Simple",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/script.js",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves/index.html",
+    "04_TalentoTech/02_Code/02_Semana/04_Jueves",
+    "04_TalentoTech/01_Notes/02_Semana/03_DOM.md",
+    "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/smiley.gif",
+    "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/landscape.jpg",
     "04_TalentoTech/01_Notes/02_Semana/01_DOM.md",
     "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md",
+    "Untitled.md",
+    "05_Oracle/1. DataBase Design/1. Notes/2.3 Modelado de Relacion Entidades y ERD.md",
+    "05_Oracle/1. DataBase Design/1. Notes/2.1 Modelos Conceptuales y Físicos.md",
+    "05_Oracle/1. DataBase Design/1. Notes/2.2 Entidades, Instancias, Atributos e Identificadores.md",
     "04_TalentoTech/01_Notes/01_Semana/02_OOP - ENCAPSULAMIENTO.md",
+    "Comandos para archivos md.md",
     "04_TalentoTech/01_Notes/01_Semana/02.1_OOP - HERENCIA.md",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/index.html",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/02_Martes",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/single.html",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/license.txt",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/navigation.js",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/jquery.min.js",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/html5.js",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js/css3-mediaqueries.js",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/js",
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project2.jpg",
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project1.jpg",
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/pinterest.png",
@@ -183,9 +179,6 @@
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/logo.png",
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img03.png",
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img02.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img01.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/google.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/favicon.ico",
     "4. TalentoTech Full Stack/1. Notes/01_Semana/02.1_OOP - HERENCIA.md",
     "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md",
     "4. TalentoTech Full Stack/1. Notes/01_Semana/02_OOP - ENCAPSULAMIENTO.md",

@@ -5,7 +5,7 @@
 #### ENCAPSULAMIENTO (PROTEGER)
 
 - El objetivo principal del encapsulamiento es ocultar los detalles internos de un objeto o una clase y solo mostrar los detalles necesarios para el funcionamiento de esta.
-- El encapsulamiento es uno de los pilares del OPP.
+- El encapsulamiento es uno de los pilares del OOP.
 - El encapsulamiento ayuda:
 	- Proteger los datos de accidentes y cosas no deseadas.
 	- Seguridad al momento de acceder o modificar datos.
