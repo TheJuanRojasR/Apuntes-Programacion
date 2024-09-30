@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modificación de estilos CSS con DOM</title>
+    <style>
+        /* Estilos básicos para demostrar cambios */
+        .main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            height: 100vh;
+        }
+
+        .section {
+            border: 1px solid #ccc;
+            padding: 20px;
+            width: 80%;
+            max-width: 600px;
+            text-align: center;
+        }
+
+        .section__button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            border-radius: 5px;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .section__button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <main class="main">
+        <section class="section">
+            <p id="color-paragraph" >Cambiar mi color</p>
+            <button id="color-button" class="section__button">Clic Aquí</button>
+        </section>
+        <section class="section">
+            <p id="size-paragraph" >Cambiar mi tamaño</p>
+            <button id="size-button" class="section__button">Clic Aquí</button>
+        </section>
+        <section class="section">
+            <p id="position-paragraph" >Muéveme al centro</p>
+            <button id="position-button" class="section__button">Clic Aquí</button>
+        </section>
+        <section class="section">
+            <p id="font-paragraph" >Cambia mi tipo de letra</p>
+            <button id="font-button" class="section__button">Clic Aquí</button>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
+
