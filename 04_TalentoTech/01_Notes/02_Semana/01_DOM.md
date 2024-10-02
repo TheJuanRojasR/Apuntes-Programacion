@@ -1,5 +1,4 @@
 <sub> Fecha: 23, 25, 26, 27 de septiembre del 2024 </sub>
-<sub> Clase 6</sub>
 ### Resumen
 
 >[!info]  Buena practica

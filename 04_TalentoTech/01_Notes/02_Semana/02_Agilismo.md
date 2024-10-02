@@ -1,5 +1,4 @@
 <sub> Fecha: 24 de septiembre del 2024 </sub>
-<sub> Clase 7</sub>
 ### Resumen
 
 #### AGIL

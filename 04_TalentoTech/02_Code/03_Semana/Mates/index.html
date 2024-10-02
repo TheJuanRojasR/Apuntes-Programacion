@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini CRUD</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="main">
+        <section class="product-creation">
+            <h2 class="product-creation__title">Creating Product</h2>
+            <form class="product-creation__form" id="productForm">
+                <div class="product-creation__field">
+                    <label for="productName" class="product-creation__label">Name</label>
+                    <input type="text" id="productName" name="productName" class="product-creation__input">
+                </div>
+                <div class="product-creation__field">
+                    <label for="productPrice" class="product-creation__label">Price</label>
+                    <input type="number" id="productPrice" name="productPrice" class="product-creation__input">
+                </div>
+                <div class="product-creation__field">
+                    <label for="productDescription" class="product-creation__label">Description</label>
+                    <input type="text" id="productDescription" name="productDescription" class="product-creation__input">
+                </div>
+                <div class="product-creation__field">
+                    <label for="productQuantity" class="product-creation__label">Quantity</label>
+                    <input type="number" id="productQuantity" name="productQuantity" class="product-creation__input">
+                </div>
+                <button id="productButton" type="button" class="product-creation__button">Add Product</button>
+            </form>
+        </section>
+
+        <section class="product-list">
+            <h2 class="product-list__title">Product List</h2>
+            <table class="product-list__table">
+                <thead>
+                    <tr>
+                        <th class="product-list__header-cell">Product</th>
+                        <th class="product-list__header-cell">Price</th>
+                        <th class="product-list__header-cell">Description</th>
+                        <th class="product-list__header-cell">Quantity</th>
+                    </tr>
+                </thead>
+                <tbody id="productTableBody">
+                    
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
