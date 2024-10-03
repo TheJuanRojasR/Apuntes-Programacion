@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/41_for...in_ciclo_Js.md",
+                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/41_for...in_ciclo_Js.md",
+                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/41_for...in_ciclo_Js.md",
+                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/41_for...in_ciclo_Js.md"
+                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md"
               }
             }
           }
@@ -148,22 +148,38 @@
   },
   "active": "1d7a7644bc110fdd",
   "lastOpenFiles": [
-    "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/40_for...of_ciclo_Js.md",
-    "05_Oracle/1. DataBase Design/1. Notes/1.2 Datos Frente a la Información.md",
-    "05_Oracle/1. DataBase Design/1. Notes/3.1 Identificación de Relaciones.md",
-    "05_Oracle/1. DataBase Design/1. Notes/2.3 Modelado de Relacion Entidades y ERD.md",
-    "05_Oracle/1. DataBase Design/1. Notes/2.2 Entidades, Instancias, Atributos e Identificadores.md",
+    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.3 Interpretación de ERD y Dibujo de Relaciones.md",
+    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
+    "05_Oracle/1. DataBase Design/1_Notes/04_Module/4.1 Supertipos y Subtipos.md",
+    "05_Oracle/1. DataBase Design/1_Notes/04_Module",
+    "Img/Pasted image 20241002151916.png",
+    "Img/Pasted image 20241002152730.png",
+    "Comandos para archivos md.md",
+    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.1 Identificación de Relaciones.md",
+    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.2 Convenciones de Diagramas de ER.md",
+    "Img/Pasted image 20241002144950.png",
+    "Img/Pasted image 20241002144819.png",
+    "Img/Pasted image 20241002144726.png",
+    "Img/Pasted image 20241002144440.png",
+    "05_Oracle/1. DataBase Design/1_Notes/01_Module/1.2 Datos Frente a la Información.md",
+    "05_Oracle/1. DataBase Design/1_Notes/03_Module",
+    "05_Oracle/1. DataBase Design/1_Notes/02_Module",
+    "05_Oracle/1. DataBase Design/1_Notes/01_Module/1.3 Historia de la base de datos.md",
+    "Buenas practicas.md",
+    "04_TalentoTech/02_Code/03_Semana/Mates/Errores Solucionados.md",
+    "05_Oracle/1. DataBase Design/1_Notes/01_Module",
+    "README.md",
     "04_TalentoTech/01_Notes/03_Semana/01_CRUD.md",
+    "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/41_for...in_ciclo_Js.md",
+    "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/40_for...of_ciclo_Js.md",
+    "05_Oracle/1. DataBase Design/1_Notes/02_Module/2.3 Modelado de Relacion Entidades y ERD.md",
+    "05_Oracle/1. DataBase Design/1_Notes/02_Module/2.2 Entidades, Instancias, Atributos e Identificadores.md",
     "04_TalentoTech/02_Code/03_Semana/Lunes/minicrud.html",
     "04_TalentoTech/02_Code/03_Semana/Lunes/estilos.css",
     "04_TalentoTech/02_Code/03_Semana/Lunes/Ejemplo_01.code-workspace",
     "04_TalentoTech/02_Code/03_Semana/Lunes/almacenar.js",
     "04_TalentoTech/02_Code/03_Semana/Lunes",
     "04_TalentoTech/02_Code/02_Semana/03_Miercoles/script.js",
-    "04_TalentoTech/02_Code/02_Semana/03_Miercoles/index.html",
-    "04_TalentoTech/02_Code/02_Semana/03_Miercoles",
-    "04_TalentoTech/02_Code/03_Semana",
-    "04_TalentoTech/02_Code/03_Miercoles/script.js",
     "04_TalentoTech/01_Notes/01_Semana/01_OOP - Object Oriented Programming.md",
     "04_TalentoTech/01_Notes/01_Semana/02_OOP - ENCAPSULAMIENTO.md",
     "04_TalentoTech/01_Notes/01_Semana/02.1_OOP - HERENCIA.md",
@@ -171,28 +187,12 @@
     "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md",
     "04_TalentoTech/01_Notes/03_Semana/Untitled.md",
     "04_TalentoTech/01_Notes/02_Semana/03_DOM.md",
-    "Buenas practicas.md",
     "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/smiley.gif",
     "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/landscape.jpg",
-    "05_Oracle/1. DataBase Design/1. Notes/2.1 Modelos Conceptuales y Físicos.md",
-    "Comandos para archivos md.md",
+    "05_Oracle/1. DataBase Design/1_Notes/02_Module/2.1 Modelos Conceptuales y Físicos.md",
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project2.jpg",
     "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project1.jpg",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/pinterest.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/pattern101.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/instagram.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/logo.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img03.png",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/img02.png",
     "4. TalentoTech Full Stack/1. Notes/01_Semana/02.1_OOP - HERENCIA.md",
-    "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md",
-    "4. TalentoTech Full Stack/1. Notes/01_Semana/02_OOP - ENCAPSULAMIENTO.md",
-    "4. TalentoTech Full Stack/1. Notes/01_Semana/01_OOP - Object Oriented Programming.md",
-    "4. TalentoTech Full Stack/2. Code/01_Semana/05_Viernes/ejercicios_encapsulamiento.md",
-    "4. TalentoTech Full Stack/2. Code/Semana_1/05_Viernes/ejercicios_encapsulamiento.md",
-    "5. Oracle/1. DataBase Design/1. Notes/2.2 Entidades, Instancias, Atributos e Identificadores.md",
-    "5. Oracle/1. DataBase Design/1. Notes/2.1 Modelos Conceptuales y Físicos.md",
-    "5. Oracle/1. DataBase Design/1. Notes/1.4 Transformaciones en informática.md",
-    "Comandos para archivos .md.md"
+    "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md"
   ]
 }

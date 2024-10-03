@@ -8,11 +8,13 @@ Regla de 3 pasos cuando se manipule el DOM (Siempre hacerla) att: Juan Rojas
 */
 
 const PRODUCT_BUTTON = document.getElementById('productButton');
+const PRODUCT_TABLE_BODY = document.getElementById('productTableBody');
 
 
-const sendInformation = () => {
+function createProduct () {
     const PRODUCT_FORM = document.getElementById('productForm');
     const formData = new FormData(PRODUCT_FORM);
+    let productsList = JSON.parse(localStorage.getItem('productsList')) || [];
 
     const isValid = validateInformation(formData);
     if (!isValid) {
@@ -20,21 +22,22 @@ const sendInformation = () => {
         return;
     } 
 
-    const objetoProducto = {
+    const productObject = {
         productName : formData.get('productName'),
         productPrice: formData.get('productPrice'),
         productDescription: formData.get('productDescription'),
         productQuantity: formData.get('productQuantity'),
     }
 
-    // El objeto se tiene que convertir en JSON porque el localStorage solo acepta cadenas de texto.
-    // JSON.stringify() convierte el objeto en una cadena de texto JSON
-    localStorage.setItem('producto', JSON.stringify(objetoProducto));
+    productsList.push(productObject);
+    localStorage.setItem('productsList', JSON.stringify(productsList));
     
-    console.log("Producto guardado en localStorage:", objetoProducto);
+    console.log("Producto guardado en localStorage:", productsList);
+
+    appendProductToTable(productObject);
 }
 
-const validateInformation = (data) => {
+function validateInformation (data) {
     let isValid = true;
 
     for (let [key, value] of data.entries()) {
@@ -56,9 +59,43 @@ const validateInformation = (data) => {
     return isValid;
 }
 
+// Función para agregar un producto a la tabla
+function appendProductToTable (product) {
+    const row = document.createElement('tr');
+
+    const createCell = (text) => {
+        const cell = document.createElement('td');
+        cell.textContent = text;
+        cell.className = 'product-list__cell';
+        return cell;
+    };
+
+    row.appendChild(createCell(product.productName));
+    row.appendChild(createCell(product.productPrice));
+    row.appendChild(createCell(product.productDescription));
+    row.appendChild(createCell(product.productQuantity));
+
+    PRODUCT_TABLE_BODY.appendChild(row);
+};
+
+// Función para mostrar los productos guardados en localStorage
+function showProducts () {
+    const productsList = JSON.parse(localStorage.getItem('productsList'));
+
+    if (!productsList || productsList.length === 0) {
+        console.info('No hay datos en el localStorage.');
+        return;
+    }
+
+    productsList.forEach(product => {
+        appendProductToTable(product);
+    });
+};
 
 
-PRODUCT_BUTTON.addEventListener('click', sendInformation);
+// Programa principal
+showProducts();
+PRODUCT_BUTTON.addEventListener('click', createProduct);
 
 
 
