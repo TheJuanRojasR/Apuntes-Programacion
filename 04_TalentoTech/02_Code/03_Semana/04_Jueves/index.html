@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD</title>
+    <!-- Enlace CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Icono pestaña -->
+    <link rel="icon" href="./img/First_Aid.svg">
+</head>
+<body>
+    <main class="main">
+        <!-- Sección de Registro Personal -->
+        <section class="register">
+            <h2 class="register__title">Registro personal</h2>
+            <form id="register_form" class="register__form">
+                <div class="register__field">
+                    <label for="name" class="register__label">Nombre</label>
+                    <input type="text" id="name_employee_input" class="register__input" name="nameEmployee" required>
+                </div>
+                <div class="register__field">
+                    <label for="rol" class="register__label">Rol</label>
+                    <select id="rol_select" class="register__select" name="rolEmployee" required>
+                        <option value="">Seleccionar rol</option>
+                        <option value="Doctor">Doctor</option>
+                        <option value="Enfermera">Enfermera</option>
+                        <option value="Administrativo">Administrativo</option>
+                    </select>
+                </div>
+                <button id="create_button" type="button" class="register__button">Agregar</button>
+            </form>
+        </section>
+
+        <!-- Sección de Datos Personal -->
+        <section class="data">
+            <h2 class="data__title">Datos personal</h2>
+            <table class="data__table">
+                <thead>
+                    <tr>
+                        <th>Nombres</th>
+                        <th>Rol</th>
+                        <th>Fecha/Hora</th>
+                        <th>Localización</th>
+                        <th>Editar</th>
+                        <th>Eliminar</th>
+                    </tr>
+                </thead>
+                <tbody id="data_table" class="data__body">
+                    <!-- Aquí irán las filas de datos -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="script_optimizado.js"></script>
+</body>
+</html>

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
+                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d03801e1aec7d567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos para archivos md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
+                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
+                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md"
+                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md"
               }
             }
           }
@@ -148,15 +160,21 @@
   },
   "active": "1d7a7644bc110fdd",
   "lastOpenFiles": [
+    "01_Platzi/04_Prompt Engineering",
+    "05_Oracle/1. DataBase Design/1_Notes/04_Module/4.1 Supertipos y Subtipos.md",
+    "Comandos para archivos md.md",
+    "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
+    "Img/Pasted image 20241004163016.png",
+    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.1 Identificación de Relaciones.md",
+    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.2 Convenciones de Diagramas de ER.md",
     "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.3 Interpretación de ERD y Dibujo de Relaciones.md",
     "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
-    "05_Oracle/1. DataBase Design/1_Notes/04_Module/4.1 Supertipos y Subtipos.md",
+    "Img/Pasted image 20241004103516.png",
+    "04_TalentoTech/02_Code/03_Semana/04_Jueves/CRUD - Tener en cuenta al crear.md",
+    "04_TalentoTech/02_Code/03_Semana/02_Martes/Errores Solucionados.md",
     "05_Oracle/1. DataBase Design/1_Notes/04_Module",
     "Img/Pasted image 20241002151916.png",
     "Img/Pasted image 20241002152730.png",
-    "Comandos para archivos md.md",
-    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.1 Identificación de Relaciones.md",
-    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.2 Convenciones de Diagramas de ER.md",
     "Img/Pasted image 20241002144950.png",
     "Img/Pasted image 20241002144819.png",
     "Img/Pasted image 20241002144726.png",
@@ -186,13 +204,7 @@
     "04_TalentoTech/01_Notes/02_Semana/01_DOM.md",
     "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md",
     "04_TalentoTech/01_Notes/03_Semana/Untitled.md",
-    "04_TalentoTech/01_Notes/02_Semana/03_DOM.md",
     "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/smiley.gif",
-    "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/landscape.jpg",
-    "05_Oracle/1. DataBase Design/1_Notes/02_Module/2.1 Modelos Conceptuales y Físicos.md",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project2.jpg",
-    "4. TalentoTech Full Stack/2. Code/02_Semana/01_Lunes/zMaster/zMaster/images/project1.jpg",
-    "4. TalentoTech Full Stack/1. Notes/01_Semana/02.1_OOP - HERENCIA.md",
-    "4. TalentoTech Full Stack/1. Notes/02_Semana/01_DOM.md"
+    "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/landscape.jpg"
   ]
 }
