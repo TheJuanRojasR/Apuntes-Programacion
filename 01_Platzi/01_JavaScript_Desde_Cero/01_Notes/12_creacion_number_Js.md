@@ -40,9 +40,4 @@
 
 - Number()me devuelve cualquier tipo, sea entero o decimal. Si el string tiene caracteres me devolverá `NaN` 
 - parseInt() solo me devolverá un numero de tipo entero. Una ventaja de parseInt es que si el string comienza con números y luego tiene caracteres este me borrara los caracteres y se quedara con los números. Si solo tiene caracteres me devolverá `NaN`.
-=======
-<sub> Fecha: 11 de mayo del 2024 </sub>
-<sub> Clase 12/79 </sub>
-## Resumen
-### Tema : 
->>>>>>> 780c806 (vault backup: 2024-05-11 16:28:14)
+

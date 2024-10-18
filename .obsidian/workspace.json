@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
+                "file": "01_Platzi/05_Curso_Introduccion_MongoDB/MongoDB Compass.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
+                "file": "01_Platzi/05_Curso_Introduccion_MongoDB/MongoDB Compass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
+                "file": "01_Platzi/05_Curso_Introduccion_MongoDB/MongoDB Compass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md"
+                "file": "01_Platzi/05_Curso_Introduccion_MongoDB/MongoDB Compass.md"
               }
             }
           }
@@ -160,50 +160,50 @@
   },
   "active": "1d7a7644bc110fdd",
   "lastOpenFiles": [
-    "01_Platzi/04_Prompt Engineering",
-    "05_Oracle/1. DataBase Design/1_Notes/04_Module/4.1 Supertipos y Subtipos.md",
-    "Comandos para archivos md.md",
-    "01_Platzi/04_Prompt Engineering/Hacer buenos PROMPTS.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/ms/readme.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/ms/license.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/ms/package.json",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/ms/index.js",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/encodeurl/package.json",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/encodeurl/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/encodeurl/LICENSE",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/encodeurl/index.js",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/node_modules/encodeurl/HISTORY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/object-inspect/test/browser/dom.js",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/iconv-lite/encodings/tables/shiftjis.json",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/iconv-lite/encodings/tables/gbk-added.json",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/iconv-lite/encodings/tables/eucjp.json",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/utils-merge/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/unpipe/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/unpipe/HISTORY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/vary/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/vary/HISTORY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/type-is/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/type-is/HISTORY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/toidentifier/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/toidentifier/HISTORY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/statuses/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/statuses/HISTORY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/side-channel/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/side-channel/CHANGELOG.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/setprototypeof/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/serve-static/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/set-function-length/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/serve-static/HISTORY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/set-function-length/CHANGELOG.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/SECURITY.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/raw-body/README.md",
+    "04_TalentoTech/02_Code/04_Semana/Practica_Express/node_modules/send/HISTORY.md",
     "Img/Pasted image 20241004163016.png",
-    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.1 Identificación de Relaciones.md",
-    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.2 Convenciones de Diagramas de ER.md",
-    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.3 Interpretación de ERD y Dibujo de Relaciones.md",
-    "05_Oracle/1. DataBase Design/1_Notes/03_Module/3.4 Diagramas de Matriz.md",
     "Img/Pasted image 20241004103516.png",
-    "04_TalentoTech/02_Code/03_Semana/04_Jueves/CRUD - Tener en cuenta al crear.md",
-    "04_TalentoTech/02_Code/03_Semana/02_Martes/Errores Solucionados.md",
-    "05_Oracle/1. DataBase Design/1_Notes/04_Module",
     "Img/Pasted image 20241002151916.png",
     "Img/Pasted image 20241002152730.png",
     "Img/Pasted image 20241002144950.png",
     "Img/Pasted image 20241002144819.png",
     "Img/Pasted image 20241002144726.png",
     "Img/Pasted image 20241002144440.png",
-    "05_Oracle/1. DataBase Design/1_Notes/01_Module/1.2 Datos Frente a la Información.md",
-    "05_Oracle/1. DataBase Design/1_Notes/03_Module",
-    "05_Oracle/1. DataBase Design/1_Notes/02_Module",
-    "05_Oracle/1. DataBase Design/1_Notes/01_Module/1.3 Historia de la base de datos.md",
-    "Buenas practicas.md",
-    "04_TalentoTech/02_Code/03_Semana/Mates/Errores Solucionados.md",
-    "05_Oracle/1. DataBase Design/1_Notes/01_Module",
-    "README.md",
-    "04_TalentoTech/01_Notes/03_Semana/01_CRUD.md",
-    "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/41_for...in_ciclo_Js.md",
-    "01_Platzi/01_JavaScript_Desde_Cero/01_Notes/40_for...of_ciclo_Js.md",
-    "05_Oracle/1. DataBase Design/1_Notes/02_Module/2.3 Modelado de Relacion Entidades y ERD.md",
-    "05_Oracle/1. DataBase Design/1_Notes/02_Module/2.2 Entidades, Instancias, Atributos e Identificadores.md",
-    "04_TalentoTech/02_Code/03_Semana/Lunes/minicrud.html",
-    "04_TalentoTech/02_Code/03_Semana/Lunes/estilos.css",
-    "04_TalentoTech/02_Code/03_Semana/Lunes/Ejemplo_01.code-workspace",
-    "04_TalentoTech/02_Code/03_Semana/Lunes/almacenar.js",
-    "04_TalentoTech/02_Code/03_Semana/Lunes",
-    "04_TalentoTech/02_Code/02_Semana/03_Miercoles/script.js",
-    "04_TalentoTech/01_Notes/01_Semana/01_OOP - Object Oriented Programming.md",
-    "04_TalentoTech/01_Notes/01_Semana/02_OOP - ENCAPSULAMIENTO.md",
-    "04_TalentoTech/01_Notes/01_Semana/02.1_OOP - HERENCIA.md",
-    "04_TalentoTech/01_Notes/02_Semana/01_DOM.md",
-    "04_TalentoTech/01_Notes/02_Semana/02_Agilismo.md",
-    "04_TalentoTech/01_Notes/03_Semana/Untitled.md",
     "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/smiley.gif",
     "04_TalentoTech/02_Code/02_Semana/03_Miercoles/Tech5-20240925T232124Z-001/Tech5/Ejemplos/08/landscape.jpg"
   ]
